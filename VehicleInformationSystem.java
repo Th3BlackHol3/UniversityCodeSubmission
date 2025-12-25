@@ -13,7 +13,7 @@ public class VehicleRentalSystem {
 
     public static void main(String[] args) {
         System.out.println("==========================================");
-        System.out.println("   CAR RENTAL AGENCY INFORMATION SYSTEM   ");
+        System.out.println("   CAR RENTAL AGENCY INFORMATION SYSTEM   "); 
         System.out.println("==========================================");
 
         boolean exit = false;
